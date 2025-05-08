@@ -1,3 +1,9 @@
+这是GFP_B工具的开源版本，有详细的介绍编译方法：
+## 官方交流频道 
+
+如果你有任何问题，或者想加入我们的社区进行讨论，欢迎加入我们的 Telegram 频道：
+
+- **Telegram 频道**：[@GFP_B](https://t.me/GFP_B)
 # GFP_B_SourceCode
 
 如何在 **Termux** 环境中编译并运行 C++ 文件：
